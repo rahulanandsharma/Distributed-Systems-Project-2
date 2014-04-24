@@ -29,9 +29,9 @@ returns the data to the client.
 To run the Program
 
 
-bash Client/run.sh <Filename> <IP of server> <Port of rmiregistry>
+    bash Client/run.sh <Filename> <IP of server> <Port of rmiregistry>
 
 
-bash Server/run.sh  <Port of rmiregistry>
+    bash Server/run.sh  <Port of rmiregistry>
 
 
