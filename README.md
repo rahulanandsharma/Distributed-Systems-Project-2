@@ -1,4 +1,4 @@
-Assignment-2-
+Project 2
 =============
 
 This project has client server program using RPC (SUN RPC using C).
